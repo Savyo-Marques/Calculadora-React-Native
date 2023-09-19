@@ -1,7 +1,7 @@
 # Calculadora em React Native
 
-<div align=""> 
-    <img src="" width="">
+<div align="center"> 
+    <img src="https://github.com/Savyo-Marques/Calculadora-React-Native/assets/129305960/5e58961f-58c0-4445-9053-763af733dc1d" width="400">
 </div>
 
 ## Descrição
